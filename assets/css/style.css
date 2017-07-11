@@ -1,0 +1,70 @@
+h1, h2, h3, h4, h5, p{
+	font-family: 'Marko One', serif;
+}
+
+p{
+	color: white;
+}
+
+#main {
+	background-color: #69bab4;
+}
+#firstBox {
+	background-color: #e7689f;
+	font-family: 'Marko One', serif;
+	font-size: 22.61;
+	text-align: center;
+	margin-top: 1%;
+	margin-bottom: 1%;
+}
+
+#secondBox {
+	background-color: #b33a4d;
+	font-size: 16.15;
+	color: white;
+	text-align: left;
+	margin-top: 1%;
+	margin-bottom: 1%;
+}
+
+#compChoice {
+	background-color: aqua;
+	padding-bottom: 12%;
+	padding-top: 12%;
+	text-align: center;
+}
+
+
+#box5 {
+	margin-top: 1%;
+}
+
+.crystal{
+	margin-right: 50%;
+}
+
+img {   
+   background-color:#ee0b43;
+}
+
+#box6 {
+	margin-top: 1%;
+}
+
+.table {
+	background-color: #a2048f;
+	color: black;
+}
+
+#score {
+	background-color: aqua;
+	padding-bottom: 12%;
+	padding-top: 12%;
+	text-align: center;
+	color: black;
+}
+
+.crystal-image {
+	padding: .5%;
+}
+
